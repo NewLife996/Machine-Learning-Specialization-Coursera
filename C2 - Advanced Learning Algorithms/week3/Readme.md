@@ -1,7 +1,7 @@
-### C2 - Week 3 Solutions 
+### 课程 2 - 第 3 周习题解答
 
-- [Practice quiz : Advice for Applying Machine Learning](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/614fe817ac9b5fba6718512ba8c8a36b856a1cab/C2%20-%20Advanced%20Learning%20Algorithms/week3/Practice-Quiz-Advice-for-applying-machine-learning)    
-- [Practice quiz : Bias and Variance](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/7a8ce331775aa5c6ad3e9784744650fc77958b89/C2%20-%20Advanced%20Learning%20Algorithms/week3/practice-quiz-bias-and-variance)
-- [Practice quiz : Machine Learning Development Process](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/7a8ce331775aa5c6ad3e9784744650fc77958b89/C2%20-%20Advanced%20Learning%20Algorithms/week3/practice-quiz-machine-learning-development-process)
-- [Programming Assignment](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/7a8ce331775aa5c6ad3e9784744650fc77958b89/C2%20-%20Advanced%20Learning%20Algorithms/week3/C2W3A1)
-  - [Advice for Applied Machine Learning](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/7a8ce331775aa5c6ad3e9784744650fc77958b89/C2%20-%20Advanced%20Learning%20Algorithms/week3/C2W3A1/C2_W3_Assignment.ipynb)
+- [课后测验：应用机器学习的建议](Practice-Quiz-Advice-for-applying-machine-learning)
+- [课后测验：偏差与方差](practice-quiz-bias-and-variance)
+- [课后测验：机器学习开发流程](practice-quiz-machine-learning-development-process)
+- [编程作业](C2W3A1)
+  - [应用机器学习的实践建议](C2W3A1/C2_W3_Assignment.ipynb)

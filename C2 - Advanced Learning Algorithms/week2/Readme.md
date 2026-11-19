@@ -1,12 +1,12 @@
-### C2 - Week 2 Solutions 
+### 课程 2 - 第 2 周习题解答
 
-- [Practice quiz : Neural Networks Training](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/7e5505d650d56554edde4abebc51a2c7c7fb81fb/C2%20-%20Advanced%20Learning%20Algorithms/week2/Practice-Quiz-Neural-Network-Training)
-- [Practice quiz : Activation Functions](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/f2b84223545cc7c0062903cf4eac5c6fda53dc20/C2%20-%20Advanced%20Learning%20Algorithms/week2/Practice-Quiz-Activation-Functions)
-- [Practice quiz : Multiclass Classification](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/80c14a835b066568b075410bb2e5e1220b4c3653/C2%20-%20Advanced%20Learning%20Algorithms/week2/Practice-quiz-Multiclass-Classification)
-- [Practice quiz : Additional Neural Networks Concepts](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/3bf176864d32d12eb2cb98ed4661e3ded627befa/C2%20-%20Advanced%20Learning%20Algorithms/week2/Practice-Quiz-Additional-Neural-Network-Concepts)
-- [Optional Labs](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/fd18b6a34ba06c7743ad41917206227ec0d9ef12/C2%20-%20Advanced%20Learning%20Algorithms/week2/optional-labs)
-    - [RElu](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/fd18b6a34ba06c7743ad41917206227ec0d9ef12/C2%20-%20Advanced%20Learning%20Algorithms/week2/optional-labs/C2_W2_Relu.ipynb)
-    - [Softmax](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/fd18b6a34ba06c7743ad41917206227ec0d9ef12/C2%20-%20Advanced%20Learning%20Algorithms/week2/optional-labs/C2_W2_SoftMax.ipynb)
-    - [Multiclass Classification](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/fd18b6a34ba06c7743ad41917206227ec0d9ef12/C2%20-%20Advanced%20Learning%20Algorithms/week2/optional-labs/C2_W2_Multiclass_TF.ipynb)
-- [Programming Assignment](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/fd18b6a34ba06c7743ad41917206227ec0d9ef12/C2%20-%20Advanced%20Learning%20Algorithms/week2/C2W2A1)
-  - [Neural Networks For Handwritten Digit Recogonition - Multiclass](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/fd18b6a34ba06c7743ad41917206227ec0d9ef12/C2%20-%20Advanced%20Learning%20Algorithms/week2/C2W2A1/C2_W2_Assignment.ipynb)
+- [课后测验：神经网络训练](Practice-Quiz-Neural-Network-Training)
+- [课后测验：激活函数](Practice-Quiz-Activation-Functions)
+- [课后测验：多分类](Practice-quiz-Multiclass-Classification)
+- [课后测验：神经网络的其他概念](Practice-Quiz-Additional-Neural-Network-Concepts)
+- [选做实验](optional-labs)
+    - [ReLU](optional-labs/C2_W2_Relu.ipynb)
+    - [Softmax](optional-labs/C2_W2_SoftMax.ipynb)
+    - [多分类](optional-labs/C2_W2_Multiclass_TF.ipynb)
+- [编程作业](C2W2A1)
+  - [手写数字识别神经网络——多分类](C2W2A1/C2_W2_Assignment.ipynb)

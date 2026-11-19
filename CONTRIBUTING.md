@@ -1,3 +1,3 @@
-If you find it useful,
+如果你觉得本仓库对你有帮助，
 
-Dropping a *star* would be *motivational* !
+点一个 *Star* 就是最好的 *鼓励* ！

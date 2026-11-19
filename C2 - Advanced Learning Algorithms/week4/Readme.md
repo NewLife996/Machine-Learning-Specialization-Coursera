@@ -1,8 +1,8 @@
-### C2 - Week 4 Solutions 
+### 课程 2 - 第 4 周习题解答
 
 
-- [Practice quiz : Decision Trees](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/9d6b795c6a43d44b2c498df8ad3225f8c8849728/C2%20-%20Advanced%20Learning%20Algorithms/week4/practice-quiz-decision-trees)
-- [Practice Quiz : Decision Trees Learning](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/9d6b795c6a43d44b2c498df8ad3225f8c8849728/C2%20-%20Advanced%20Learning%20Algorithms/week4/practice-quiz-decision-tree-learning)
-- [Practice quiz : Decision Trees Ensembles](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/9d6b795c6a43d44b2c498df8ad3225f8c8849728/C2%20-%20Advanced%20Learning%20Algorithms/week4/practice-quiz-tree-ensembles)
-- [Programming Assignment](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/9d6b795c6a43d44b2c498df8ad3225f8c8849728/C2%20-%20Advanced%20Learning%20Algorithms/week4/C2W4A1)
-  - [Decision Trees](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/9d6b795c6a43d44b2c498df8ad3225f8c8849728/C2%20-%20Advanced%20Learning%20Algorithms/week4/C2W4A1/C2_W4_Decision_Tree_with_Markdown.ipynb)
+- [课后测验：决策树](practice-quiz-decision-trees)
+- [课后测验：决策树的学习](practice-quiz-decision-tree-learning)
+- [课后测验：决策树集成](practice-quiz-tree-ensembles)
+- [编程作业](C2W4A1)
+  - [决策树](C2W4A1/C2_W4_Decision_Tree_with_Markdown.ipynb)
